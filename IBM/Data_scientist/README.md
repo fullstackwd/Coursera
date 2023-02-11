@@ -1,3 +1,3 @@
-# Tools for Data Science - IBM - Coursera
+# Professional Certificate - IBM - Coursera
 
-### Peer-graded Assignment: Create and Share Your Jupyter Notebook
+### Peer-graded Assignments
